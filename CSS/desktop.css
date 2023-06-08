@@ -1,0 +1,36 @@
+main {
+    margin-top: 15rem;
+    text-align: center;
+}
+main .main-logo {
+    width: 35rem;
+    margin: 0 auto;
+    margin-bottom: 3.5rem;
+}
+main .main-input {
+    width: 53rem;
+}
+main .main-input-container {
+    width: 52.5rem;
+}     
+main .main-input input {
+    width: 45rem;
+}
+main .main-input-container:hover {
+    box-shadow: 0 0.1rem 0.6rem 0 #20212447;
+    border-color: #dfe1e500;
+}
+
+main .main-buttons {
+    width: 53rem;
+}
+
+footer .about-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 1.4rem;
+}
+
+footer ul a:hover {
+    text-decoration-line: underline;
+}

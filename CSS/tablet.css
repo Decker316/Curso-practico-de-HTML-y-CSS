@@ -1,0 +1,11 @@
+main {
+    margin-top: 20%;
+}
+main .main-input input {
+    width: 85%;
+}
+footer .about-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 1.05rem;
+}
